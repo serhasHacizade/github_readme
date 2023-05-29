@@ -1,5 +1,5 @@
 # github_readme
-<h1 align="center">Hi 👋, I'm Eren Salih</h1>
+<h1 align="center">Hi👋, I'm Eren Salih</h1>
 - 🔭 I’m currently working on **React, js and so on**
 
 - 👨‍💻 All of my projects are available at [in my github account](in my github account)
